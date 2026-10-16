@@ -1,0 +1,46 @@
+# --- S32 Design Studio build output ---
+Debug_FLASH/
+Debug_RAM/
+Release_FLASH/
+Release_RAM/
+Debug/
+Release/
+
+# Build artifacts
+*.o
+*.obj
+*.d
+*.a
+*.elf
+*.bin
+*.hex
+*.srec
+*.s19
+*.map
+*.lst
+*.su
+*.args
+*.sizestats
+makefile
+objects.mk
+sources.mk
+subdir.mk
+
+# --- Eclipse / S32DS workspace-local files ---
+.metadata/
+.recommenders/
+.externalToolBuilders/
+RemoteSystemsTempFiles/
+.settings/language.settings.xml
+*.launch.bak
+*.log
+*.tmp
+*.bak
+*.swp
+
+# --- OS / editor ---
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
